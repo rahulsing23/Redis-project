@@ -46,7 +46,7 @@ Leaderboards / Analytics	Maintain counters or rankings using sorted sets
 This project demonstrates a simple Redis integration into an application.
 It connects to a Redis server, performs basic operations like SET, GET, and DELETE, and shows how caching can improve performance.
 
-
+```
 🧱 Architecture Overview
 +-----------------------+
 |   Application Layer   |
@@ -62,6 +62,7 @@ It connects to a Redis server, performs basic operations like SET, GET, and DELE
 |   Redis Server (In-memory) |
 +----------------------------+
 
+```
 🔍 Key Highlights
 
 Connection setup using Redis client
